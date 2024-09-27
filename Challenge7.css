@@ -1,0 +1,29 @@
+.grid
+{
+   
+    display: inline-flex;
+}
+.grid-2
+{
+    background-color: yellow;
+}
+.grid-3
+{
+    background-color:blue;
+}
+.grid-4
+{
+    background-color: blue;
+}
+.grid-5
+{
+    background-color:blue;
+}
+.grid-6
+{
+    background-color:violet;
+}
+.grid-7
+{
+    background-color:blue;
+}

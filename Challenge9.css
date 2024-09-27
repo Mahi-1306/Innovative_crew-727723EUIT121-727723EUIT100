@@ -1,0 +1,26 @@
+li{
+    display:inline;
+    padding-left: 10px;
+}
+.box
+{
+    background-color: bisque;
+    text-align: center;
+    border-color: black;
+    border-radius: 10px;
+    height: 300px;
+    width: 300px;
+}
+.back
+{
+    background-color:floralwhite;
+}
+.main
+{
+    text-decoration: solid;
+    font-size: medium;
+}
+li-hover
+{
+    text-color:yellow;
+}

@@ -1,0 +1,22 @@
+.back{
+    background-color:dimgray;
+}
+.battery
+{
+    border: 5px;
+    height: 200px;
+    width: 100px;
+    position:relative;
+    margin: 5px;
+    border-radius: 2%;
+    
+}
+.battery_level
+{
+    background-color:greenyellow ;
+
+}
+.icon
+{
+    position: absolute;
+}
